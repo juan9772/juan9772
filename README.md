@@ -30,15 +30,6 @@ Here is how my experience is structured:
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juan9772&show_icons=true&theme=transparent&hide_border=true&title_color=004f90&text_color=000&icon_color=004f90" height="150" alt="Juan's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan9772&layout=compact&theme=transparent&hide_border=true&title_color=004f90&text_color=000" height="150" alt="Top Langs" />
-</div>
-
----
-
 ### 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jjtamayomazo)
