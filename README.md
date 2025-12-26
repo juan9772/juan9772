@@ -5,7 +5,6 @@ With **4+ years of experience**, I combine solid web development foundations wit
 
 - 🔭 **I’m currently working on:** Scalable **.NET 8** solutions & Microservices.
 - 🎓 **I’m studying:** Systems Engineering (UTN BA).
-- 👨‍🏫 **I like to share:** My knowledge as a Tech Educator.
 - 🧠 **My mindset:** Clean Architecture, SOLID & Pattern-Driven Design.
 
 ---
